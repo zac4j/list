@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <item name="main_btn_item_operation" type="id"/>
+  <item name="io_btn_add_header" type="id"/>
+  <item name="io_btn_insert_view" type="id"/>
+  <item name="io_btn_add_footer" type="id"/>
+  <item name="io_list_container" type="id"/>
+  <item name="io_list_item_tv_title" type="id"/>
+  <item name="io_list_item_tv_content" type="id"/>
+  <item name="io_list_item_iv_image" type="id"/>
+</resources>

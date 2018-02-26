@@ -1,0 +1,7 @@
+<resources>
+  <string name="app_name">List</string>
+  <string name="main_title_item_operation">Item Operation</string>
+  <string name="io_title_add_header">Add Header</string>
+  <string name="io_title_insert_view">Insert View</string>
+  <string name="io_title_add_footer">Add Footer</string>
+</resources>
